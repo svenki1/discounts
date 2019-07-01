@@ -1,0 +1,14 @@
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\Zadatak_Sven_Jakabfi.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\Zadatak_Sven_Jakabfi.pdb
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\obj\Debug\Zadatak_Sven_Jakabfi.csproj.CoreCompileInputs.cache
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\obj\Debug\Zadatak_Sven_Jakabfi.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\obj\Debug\Zadatak_Sven_Jakabfi.pdb
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\Newtonsoft.Json.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\Newtonsoft.Json.xml
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\obj\Debug\Zadatak_Sven_Jakabfi.csproj.CopyComplete
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\obj\Debug\Zadatak_Sven_Jakabfi.csprojAssemblyReference.cache
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\System.Security.AccessControl.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\System.Security.Permissions.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\System.Security.Principal.Windows.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\Models.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Zadatak_Sven_Jakabfi\bin\Debug\Models.pdb

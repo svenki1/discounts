@@ -1,0 +1,6 @@
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Models\bin\Debug\Zadatak_Sven_Jakabfi_Models.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Models\bin\Debug\Zadatak_Sven_Jakabfi_Models.pdb
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Models\obj\Debug\Zadatak_Sven_Jakabfi_Models.csprojAssemblyReference.cache
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Models\obj\Debug\Zadatak_Sven_Jakabfi_Models.csproj.CoreCompileInputs.cache
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Models\obj\Debug\Zadatak_Sven_Jakabfi_Models.dll
+D:\Projects\Typeqast\Zadatak_Sven_Jakabfi\Models\obj\Debug\Zadatak_Sven_Jakabfi_Models.pdb
